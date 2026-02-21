@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+    background-size: cover;
+}
+.description1{
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 1px;
+    margin-left: 20px;
+}
+.description2{
+    color: #4ADF86;
+    margin-top: 1px;
+    margin-left: 20px;
+
+}
+#words{
+    color: #B4B5BB;
+    margin-left: 20px;
+}
+#ctn{
+    background-color: #4ADF86;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    margin-top: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.border{
+    margin-top: 30px;
+    border-top: solid #B4B5BB 1px;
+}
+#passwords{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 25px;
+    
+}
+#fpassword{
+    color: #4ADF86;
+    background-color: #273549;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 4px;
+}
+#spassword{
+    color: #4ADF86;
+    background-color: #273549;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 4px;
+}
